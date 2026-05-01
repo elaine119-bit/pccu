@@ -41,7 +41,7 @@
 3.遊戲結束，結算猜測次數  
 ![圖片說明](readme_res/3.jpg)
 ## 分工資訊:
-張芸瑄:上台報告，Github
-陳品翰:PPT製作，程式設計，Github
-梁庭萱:PPT製作，程式設計，Github
+張芸瑄:上台報告，Github  
+陳品翰:PPT製作，程式設計，Github   
+梁庭萱:PPT製作，程式設計，Github  
 
