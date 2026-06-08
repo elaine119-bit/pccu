@@ -43,6 +43,6 @@
 ![圖片說明](readme_res/3.jpg)
 ## 分工資訊:
 張芸瑄:上台報告，Github  
-陳品翰:PPT製作，程式設計，Github   
-梁庭萱:PPT製作，程式設計，Github  
+陳品翰:PPT製作，程式設計，Github，製作影片   
+梁庭萱:PPT製作，程式設計，Github，製作影片  
 
